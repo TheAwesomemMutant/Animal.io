@@ -1,6 +1,6 @@
 {
-  "name": "agar-clone",
-  "description": "A simple Agar.io clone",
+  "name": "Animal.io",
+  "description": "Eat your way from cell to beast",
   "scripts": {
     "build": "gulp build",
     "start": "gulp run",
